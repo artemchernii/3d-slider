@@ -165,7 +165,7 @@ html {
   left: 0;
   font-family: assasin-st, sans-serif;
   font-size: calc(var(--index) * 3);
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.85);
 }
 .showcase__header span {
   color: var(--accent);

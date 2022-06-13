@@ -1,8 +1,8 @@
-# 3d Slider
+# 3d Slider with SwiperJS
 
-## Live: <a href="https://beatiful.herokuapp.com/">beatiful.herokuapp.com</a>
+## Live: <a href="https://slider-3d.herokuapp.com/">slider-3d.herokuapp.com</a>
 
-![Landing page](https://i.ibb.co/93CvYLP/beautiful.png)
+![Landing page](https://i.ibb.co/7WzDx26/Swiper.png)
 
 ### 3d perspective slider with Swiperjs
 
